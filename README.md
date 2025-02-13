@@ -2,35 +2,37 @@
 
 ![Tools Preview](https://github.com/BlackSpammerBd/MASTER_PHISH/blob/main/BSB.jpg)
 
-**Welcome to MASTER PHISH**, an advanced cybersecurity toolkit developed by **BLACK SPAMMER BD**. This tool is meticulously designed with cutting-edge technology to demonstrate ethical hacking skills and promote responsible learning in the vast field of cybersecurity. **Please note:** This tool is strictly for **educational purposes** and **ethical use**. Our mission is to guide aspiring ethical hackers in a **professional** and **ethical** manner.
+Welcome to **MASTER PHISH**, an advanced and state-of-the-art cybersecurity toolkit developed by **BLACK SPAMMER BD**. Crafted with cutting-edge technologies, this tool is designed to showcase essential ethical hacking skills, along with promoting responsible and professional learning in cybersecurity. **Please note:** This tool is strictly intended for **educational** and **ethical** purposes only.
 
 ## **Key Features:**
-- ✅ **Advanced Facebook Phishing**: Learn how to secure social media accounts and understand the vulnerabilities present on online platforms.
-- ✅ **Advanced Gmail Phishing**: Understand email security measures and how to protect personal information effectively.
-- ✅ **Automated Telegram Bot Notification**: Leverage the power of automation to receive real-time alerts and notifications for security tasks.
+- ✅ **Advanced Facebook Phishing**: Understand and mitigate security vulnerabilities present in social media accounts. Learn how to safeguard your accounts and identify potential threats in the platform.
+- ✅ **Advanced Gmail Phishing**: Dive deep into email security protocols, understand phishing risks, and learn how to protect your email accounts from unauthorized access.
+- ✅ **Automated Telegram Bot Notification**: Effortlessly manage security alerts and notifications via an automated Telegram bot, ensuring real-time updates and efficient communication.
 
 > **Ethical Disclaimer:**  
-This tool is meant for **educational purposes only**. **BLACK SPAMMER BD** advocates **ethical hacking** and emphasizes **online security awareness**. We believe in the values of **privacy**, **integrity**, and **legal compliance**. Unauthorized use for malicious activities is **strictly prohibited**. Please use this tool **responsibly** and contribute to creating a safer and more secure internet environment.
+This tool is intended solely for **educational purposes**. **BLACK SPAMMER BD** strongly advocates for **ethical hacking** and upholding **online security awareness**. We prioritize the values of **privacy**, **integrity**, and **legal compliance** in the cybersecurity community. Unauthorized or malicious use of this tool is **strictly prohibited**. We urge you to use this tool **responsibly**, aiming to build a **safer, more secure** internet for everyone.
 
 ---
 
 ## **Contact & Connect:**
 - **Team Name:** **BLACK SPAMMER BD**  
-  Committed to educating, empowering, and promoting ethical hacking practices worldwide.
+  Dedicated to educating, empowering, and raising awareness about ethical hacking and cybersecurity best practices globally.
 
 - **Facebook Page:** [**Black Spammer BD**](https://www.facebook.com/black.spammar.bd)  
-  Join our thriving community, engage with cybersecurity enthusiasts, and stay updated on the latest trends and projects in the cybersecurity realm.
+  Explore and join our community, engage with cybersecurity professionals, and stay updated on the latest trends and tools in the world of cybersecurity.
 
 - **Facebook Profile:** [**Shawpon Sp**](https://www.facebook.com/original.Typeboss.ur.father)  
-  Reach out to me personally for insightful discussions, collaborations, and networking opportunities in ethical hacking and cybersecurity.
+  Feel free to connect with me personally for valuable insights, collaboration opportunities, and deep discussions on ethical hacking practices.
 
 - **Facebook Group:** [**Join Our Facebook Group**](https://facebook.com/groups/black.spammar.bd/)  
-  Become part of a growing community of ethical hackers and cybersecurity professionals dedicated to learning, sharing, and advancing in the field.
+  Join a growing community of like-minded cybersecurity enthusiasts and ethical hackers, where knowledge sharing and collaboration are encouraged.
 
 ---
 
-## **Getting Started**  
-To begin using the **MASTER PHISH** toolkit, follow these simple steps:
-1. Clone the repository:
+## **Getting Started**
+
+Follow the simple steps below to start using the **MASTER PHISH** toolkit:
+
+1. **Clone the Repository**:
    ```bash
    git clone https://github.com/BlackSpammerBd/MASTER_PHISH
