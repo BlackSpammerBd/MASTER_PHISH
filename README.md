@@ -13,9 +13,9 @@ Welcome to **MASTER PHISH** – an advanced toolkit created by **BLACK SPAMMER B
 
 ### Contact & Connect:
 - **Team Name:** BLACK SPAMMER BD – Committed to promoting ethical hacking and cybersecurity awareness.
-- **GitHub Repository:** [BlackSpammerBd](https://github.com/BlackSpammerBd) – Explore, learn, and contribute to the open-source community.
-- **Facebook Profile:** [Your Name](https://www.facebook.com/YourProfile) – Connect with me personally for professional insights and collaborations.
-- **Facebook Group:** [Join Our Group](https://www.facebook.com/groups/YourGroup) – Engage with like-minded individuals and grow together in the world of ethical hacking and cybersecurity.
+- **GitHub Repository:** [Black Spammer Bd](https://www.facebook.com/black.spammar.bd) – Explore, learn, and contribute to the open-source community.
+- **Facebook Profile:** [Shawpon Sp](https://www.facebook.com/original.Typeboss.ur.father) – Connect with me personally for professional insights and collaborations.
+- **Facebook Group:** [Join Our Facebook Group](https://facebook.com/groups/black.spammar.bd/) – Engage with like-minded individuals and grow together in the world of ethical hacking and cybersecurity.
 
 ---
 
